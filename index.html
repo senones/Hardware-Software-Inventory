@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Inventory Manager</title>
+  <link rel="stylesheet" href="HS.CSS">
+</head>
+
+<body>
+  <div class="container">
+    <h1>Hardware & Software Inventory</h1>
+
+    <form id="inventory-form">
+      <input type="text" id="device" placeholder="Device Type (e.g. Laptop, Server)" required>
+      <input type="text" id="serial" placeholder="Serial Number" required>
+      <input type="text" id="location" placeholder="Location" required>
+      <input type="text" id="user" placeholder="Assigned User" required>
+      <input type="date" id="purchaseDate" placeholder="Purchase Date" required>
+      <input type="text" id="software" placeholder="Installed Software">
+      <button type="submit">Add Entry</button>
+    </form>
+    <br>
+    <button id="export-btn" type="button">Export as CSV</button>
+    <br>
+    <br>
+
+    <table id="inventory-table">
+      <thead>
+        <tr>
+          <th>Device</th>
+          <th>Serial</th>
+          <th>Location</th>
+          <th>User</th>
+          <th>Purchase Date</th>
+          <th>Software</th>
+          <th>Delete</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <script src="HS.JS"></script>
+</body>
+
+</html>
