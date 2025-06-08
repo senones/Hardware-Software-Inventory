@@ -24,4 +24,5 @@ localStorage (Data persistence)
 
 CSV Export (Downloadable reports)
 
+Live Link: https://senones.github.io/Hardware-Software-Inventory/
 
