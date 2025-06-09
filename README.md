@@ -1,21 +1,25 @@
 
-Employee Management System
-A modern, responsive Employee Management System built with HTML, CSS, and Vanilla JavaScript.
+Hardware & Software Inventory System
+Ein einfaches, aber praktisches Inventory-Management-System, mit dem man die vorhandene Hardware und Software in einer Organisation verwalten kann.
 
 Features
-Add, edit, and delete employee records
+Hinzufügen, Bearbeiten und Löschen von Hardware-Einträgen (z.B. PC-Name, Seriennummer, Modell, Standort)
 
-Manage employee name, department, email, and role
+Hinzufügen, Bearbeiten und Löschen von Software-Einträgen (z.B. Lizenzname, Version, Lizenzschlüssel, Ablaufdatum)
 
-Local data storage using browser localStorage
+Suche und Filter nach Geräten, Standorten, Lizenzstatus usw.
 
-CSV export functionality for easy backups
+Responsive Benutzeroberfläche
 
-Live search and filtering by name or department
+Speicherung der Daten in localStorage
 
-Responsive UI with Glassmorphism design
+Export als CSV für Backups
 
-Technologies Used
+Validierung der Formulareingaben
+
+Modernes UI Design (z.B. Glassmorphism / Flat Design)
+
+Technologien
 HTML5
 
 CSS3 (Flexbox, Responsive Design)
@@ -26,6 +30,5 @@ Browser localStorage
 
 CSV Export
 
-Live Demo
 Live Link: https://senones.github.io/Hardware-Software-Inventory/
 
