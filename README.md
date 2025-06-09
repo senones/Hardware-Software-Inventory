@@ -27,6 +27,5 @@ Browser localStorage
 CSV Export
 
 Live Demo
-
 Live Link: https://senones.github.io/Hardware-Software-Inventory/
 
