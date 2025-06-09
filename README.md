@@ -1,28 +1,32 @@
 
-Inventory Manager
-A simple hardware & software inventory management web application built with HTML, CSS, and JavaScript.
+Employee Management System
+A modern, responsive Employee Management System built with HTML, CSS, and Vanilla JavaScript.
 
 Features
-Add, edit, and delete hardware/software inventory entries
+Add, edit, and delete employee records
 
-Store data in localStorage (no backend required)
+Manage employee name, department, email, and role
 
-Export inventory data as CSV file
+Local data storage using browser localStorage
 
-Responsive UI with clean design
+CSV export functionality for easy backups
 
-Built fully in vanilla JavaScript
+Live search and filtering by name or department
 
-Technologies
+Responsive UI with Glassmorphism design
+
+Technologies Used
 HTML5
 
-CSS3 (Flexbox & Responsive Design)
+CSS3 (Flexbox, Responsive Design)
 
-JavaScript (Vanilla)
+Vanilla JavaScript (ES6)
 
-localStorage (Data persistence)
+Browser localStorage
 
-CSV Export (Downloadable reports)
+CSV Export
+
+Live Demo
 
 Live Link: https://senones.github.io/Hardware-Software-Inventory/
 
